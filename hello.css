@@ -1,0 +1,32 @@
+.heading
+{
+    color:blue;
+    font-size: 40px;
+    font-family: "Broadway";
+    text-align: center ;
+}
+
+.description
+{
+    color: red;
+    font-family: "Copperplate Gothic Bold";
+    font-size: 24px;
+    text-align: center;
+}
+
+.style1
+{
+    width: 200px;
+    height: 400px;
+
+}
+.style2
+{
+
+}
+.style3
+{
+    position: absolute;
+    left: 1000px;
+    top: 840px;
+}
