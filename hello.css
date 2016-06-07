@@ -2,14 +2,16 @@
 {
     color:blue;
     font-size: 40px;
-    font-family: "Broadway";
+    font-family: "Broadway"
+    align:"center";
 }
 
 .description
 {
     color: red;
     font-family: "Copperplate Gothic Bold";
-    font-size: 24px;
+    font-size: 24px
+    align:"center";
 }
 
 .style1
